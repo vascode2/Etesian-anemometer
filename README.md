@@ -2,7 +2,7 @@
 
 **A BLE-to-LoRaWAN bridge solution enabling remote wind monitoring on the Senet Network.**
 
-> **Project Context:** This project serves as a reference implementation for bridging disparate wireless protocols (BLE & LoRaWAN). It features a complete **[Application Note (PDF)](docs/Etesian_Anemometer_App_Note.pdf)**, authored to demonstrate comprehensive technical documentation standards for end-users.
+> **Project Context:** This project serves as a reference implementation for bridging disparate wireless protocols (BLE & LoRaWAN). It features a complete **[Application Note (PDF)](docs/Etesian%20anemometer%20with%20Senet.pdf)**, authored to demonstrate comprehensive technical documentation standards for end-users.
 
 ## Project Overview
 
