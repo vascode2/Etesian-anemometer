@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project utilizes the **Laird RM1xx module** (SmartBASIC) to act as a central gateway. It scans for environmental data from a battery-powered **Etesian Anemometer** via Bluetooth Low Energy (BLE) and bridges that data to a LoRaWAN network (Senet) for visualization on the **Cayenne IoT Dashboard**.
+This project utilizes the **Laird RM1xx module** (SmartBASIC) as the end-device and the **Laird RG1xx** as the LoRaWAN gateway to bridge wind data from BLE to LoRaWAN. The system scans for environmental data (wind speed and temperature) from a battery-powered **Etesian Anemometer** via Bluetooth Low Energy (BLE) and transmits it to the Senet LoRaWAN network for visualization on the **Cayenne IoT Dashboard**.
 
 ### Key Features
 * **Protocol Bridging:** Seamlessly converts BLE advertising packets into LoRaWAN payloads.
